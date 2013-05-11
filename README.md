@@ -3,7 +3,7 @@ WVNT
 
 I WVNT is a self-hosted web interface for your Svpply wants. 
 
-Example can be found here: http://wvnt/rocotos.com
+Example can be found here: http://wvnt.rocotos.com
 
 The PHP script requires a OpenExchangeRates App id which you can get from here: https://openexchangerates.org/signup/free (free plan gives you 1000 requests p/m.
 
