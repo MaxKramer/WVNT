@@ -17,4 +17,4 @@ Usage:
  - Update the `$svpply_username`, `$openexchange_id`, and `$gbp` (change to your ISO currency code) variables.
  - Enjoy.
 
-![How WVNT Looks](http://d.pr/i/lqxT+ "How WVNT Looks")
+![How WVNT Looks](http://d.pr/i/63w8+ "How WVNT Looks")
